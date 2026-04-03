@@ -15,5 +15,5 @@ print(max_profit([2, 1, 2, 1, 10]))
 print(max_profit([1, 5, 2, 3]))
 print(max_profit([3, 3, 3, 3]))
 print(max_profit([5]))
-print(max_profit([]))
+print(max_profit([]))s
 print(max_profit(list(range(100000))))
